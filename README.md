@@ -8,7 +8,12 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
 * ["The Linux Command Line" book](https://www.goodreads.com/book/show/11724436-the-linux-command-line?ac=1&from_search=true&qid=frX8uH37dA&rank=1)
+
+### To master, continue with
+
 * [May the 'command line' be with you](https://rachelcarmena.github.io/2019/05/26/may-the-command-line-be-with-you.html)
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 * [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
