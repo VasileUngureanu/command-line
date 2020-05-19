@@ -20,6 +20,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
 * [Unix commandline](https://thoughtworks-jumpstart.gitbook.io/book/developer-tools/unix-commandline)
 * [LinuxCommand.org](http://linuxcommand.org)
+* [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
 
 ## Usage
 
